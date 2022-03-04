@@ -1,0 +1,87 @@
+section {
+    display: block;
+    margin: 1em;
+}
+
+body {
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    max-width: 50%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+div {
+    float: left;
+    height: 470%;
+    width: 23%;
+    margin: 50px;
+}
+
+.card {
+    background-image: url("rain.jpg");
+    color: black;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+}
+
+#column1 {}
+
+#column2 {
+    width: 43%;
+}
+
+header {
+    background-image: url("rain.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: right;
+    color: white;
+    max-width: 100%;
+}
+
+header h1 {
+    padding: 0.625em;
+    font-size: 1.5625em;
+    font-weight: bold;
+    margin-right: 3%;
+}
+
+footer p {
+    color: rgb(7, 7, 7);
+    background-image: url("rain.jpg");
+    padding: 0.625em;
+    clear: both;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+
+footer a:hover {
+    color: rgb(5, 5, 5);
+}
+
+.etusivu {
+    font-size: 70px;
+    font-family: "Verdana";
+    color: rgb(5, 5, 5);
+    background-color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Verdana";
+    color: rgb(3, 3, 3);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
